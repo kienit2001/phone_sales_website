@@ -1,0 +1,5 @@
+[client]
+database = phone_sales_website
+user = root
+password = 123456
+default-character-set = utf8
